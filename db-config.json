@@ -1,0 +1,7 @@
+{
+    "user": "postgres",
+    "host": "localhost",
+    "database": "beauty-crm",
+    "password": "postgres",
+    "port": 5432
+}
